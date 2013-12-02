@@ -1,0 +1,2 @@
+window.StringCalculator = 
+  add: (val) ->

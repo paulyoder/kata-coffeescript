@@ -1,0 +1,17 @@
+{
+  "name": "kata-coffee",
+  "version": "0.1.0",
+  "description": "",
+  "author": "https://github.com/paulyoder/angular-bootstrap-show-errors/graphs/contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/angular-bootstrap-show-errors",
+  "main": "src/showErrors.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-karma": "0.6.2",
+    "matchdep": "0.3.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
